@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm aurpit bhatia</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [weather_forecastin](https://weather-forecating.netlify.app/)
+- 🔭 I’m currently working on [weather_forecastin](https://react-weather-fore-cating.netlify.app/)
 
 - 🌱 I’m currently learning **MERN**
 
