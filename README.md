@@ -26,4 +26,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=arpitbhatia23&show_icons=true&locale=en" alt="arpitbhatia23" height="130" width="180" />
 
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=arpitbhatia23&" alt="arpitbhatia23" height="130" width="180"/></p>
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=arpitbhatia23&" alt="arpitbhatia23" height="130" width="180" align="right"/></p>
