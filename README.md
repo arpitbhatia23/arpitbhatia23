@@ -24,6 +24,6 @@
 
 <p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=arpitbhatia23&show_icons=true&locale=en&layout=compact" alt="arpitbhatia23" /></p>
 
-<img " src="https://github-readme-stats.vercel.app/api?username=arpitbhatia23&show_icons=true&locale=en" alt="arpitbhatia23" />
+<img src="https://github-readme-stats.vercel.app/api?username=arpitbhatia23&show_icons=true&locale=en" alt="arpitbhatia23" />
 
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=arpitbhatia23&" alt="arpitbhatia23" /></p>
