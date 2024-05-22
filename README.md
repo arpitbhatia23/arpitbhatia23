@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-woad-one.vercel.app/](https://portfolio-woad-one.vercel.app/)
+- 👨‍💻 my portfolio  [https://portfolio-woad-one.vercel.app/](https://portfolio-woad-one.vercel.app/)
 
 - 📫 How to reach me **aurpitaurpit@gmail.com**
 
